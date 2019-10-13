@@ -100,11 +100,6 @@ Bitcoin fue creado en el 2008 por Satoshi Nakamoto. Un bitcoin es divisible hast
   <small><a href="#tabla-de-contenido">🡡 volver al inicio</a></small>
 </div>
 
-## Blockchain
-
-Blockchain hace parte de un conjunto de tecnologías distribuidas o DLTs (Distributer Ledger Technologies). Existen otras tecnologías a la par como DAG (Directed acyclic graph) y TEMPO. Blockchain en este caso es la más conocida. Ten en cuenta que DLT y Blockchain son cosas distintas. DLT es el conjunto de tecnologías y Blockchain es una de ellas.
-
-Blockchain es la tecnología detrás de Bitcoin.
 
 <div align="center">
   <img src="img/centralizado-vs-descentralizado-vs-distribuido.png">
